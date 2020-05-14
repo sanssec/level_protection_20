@@ -1,4 +1,3 @@
-
 #Ignore thumbnails created by Windows
 Thumbs.db
 #Ignore files built by Visual Studio
@@ -33,3 +32,5 @@ packages/
 # Book build output
 _book
 docs
+## Dependency directory
+node_modules

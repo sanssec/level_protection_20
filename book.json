@@ -1,0 +1,60 @@
+{
+    "title": "How to use gitbook",
+    "author": "Edward",
+    "description": "记录Gitbook的配置和一些插件的使用",
+    "language": "zh-hans",
+    "plugins": [
+        "editlink",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "github",
+        "tbfed-pagefooter",
+        "splitter",
+        "-sharing",
+        "sharing-plus"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/crazybber"
+        },
+        "editlink": {
+            "base": "https://github.com/iot-arch/esbook/blob/master/",
+            "label": "编辑本页"
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright © <a href=https://arch.run>arch.run</a> 2020",
+            "modify_label": " Updated at ",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "sharing": {
+            "douban": true,
+            "facebook": false,
+            "google": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": false,
+            "twitter": false,
+            "weibo": true,
+            "all": [
+                "douban",
+                "facebook",
+                "google",
+                "instapaper",
+                "linkedin",
+                "twitter",
+                "weibo",
+                "messenger",
+                "qq",
+                "qzone",
+                "viber",
+                "whatsapp"
+            ]
+        }
+    },
+    "links": {
+        "sidebar": {
+            "Jump to Home": "https://arch.run"
+        }
+    }
+}

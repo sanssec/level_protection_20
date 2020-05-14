@@ -1,18 +1,11 @@
-# Introduction
+# esbook
 
-安全等级保护行业标准
+[当前内容的 git-pages 链接1](https://iot-arch.github.io/esbook/) -> https://iot-arch.github.io/esbook/
 
-## 介绍
-
-### 条例
-
-### 解读
-
-### 策略，方案
+[当前内容的 git-pages 链接2](https://esbook.arch.wiki)
 
 
-## License
+## 下载安装
 
-著作权归当前仓库的作者，个人免费使用，内容本身，禁止用于商业用途。
+前置条件，需要先安装nodejs :--->https://nodejs.org
 
-引用内容以及引用文档，所有权归原始著作权拥有者。
