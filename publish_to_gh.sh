@@ -1,4 +1,4 @@
-# 在用这个脚本前，需要做一些准备工作
+# 在用这个脚本前，需要做一些准备工作，如果不清楚，不理解，就不要贸然用，可以先去做测试.
 # echo "public" >> .gitignore
 # git checkout --orphan gh-pages
 # git reset --hard

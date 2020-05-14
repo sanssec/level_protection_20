@@ -3,7 +3,7 @@
 文章目录
 
 - [Introduction](README.md)
-  - [Gitbook 入门](gitbook-tool/Index.md)
+  - [Gitbook 使用](gitbook-tool/Index.md)
     - [安装](gitbook-tool/install.md)
     - [插件](gitbook-tool/plugins.md)
   - [第一章](./Chapter1/Index.md)
