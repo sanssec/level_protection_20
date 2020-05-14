@@ -1,5 +1,5 @@
 BOOK_NAME := National-Security-Protection-Level
-BOOK_OUTPUT := _book
+BOOK_OUTPUT := docs
 
 .PHONY: install build all
 install:
