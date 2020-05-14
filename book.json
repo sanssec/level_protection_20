@@ -16,10 +16,10 @@
     ],
     "pluginsConfig": {
         "github": {
-            "url": "https://github.com/crazybber"
+            "url": "https://sanssec.github.io/protection_level_20/"
         },
         "editlink": {
-            "base": "https://github.com/iot-arch/esbook/blob/master/",
+            "base": "https://github.com/sanssec/protection_level_20/blob/master/",
             "label": "编辑本页"
         },
         "tbfed-pagefooter": {
@@ -54,7 +54,7 @@
     },
     "links": {
         "sidebar": {
-            "Jump to Home": "https://arch.run"
+            "Jump to Home": "https://github.com/sanssec"
         }
     }
 }
