@@ -2,7 +2,7 @@
 
 Classified Security Protection
 
-[当前内容的 git-pages](https://sanssec.github.io/protection_level_20/) -> https://sanssec.github.io/protection_level_20/
+[当前内容的 git-pages](https://sanssec.github.io/level_protection_20/) -> https://sanssec.github.io/level_protection_20/
 
 
 ## 本书的目录
