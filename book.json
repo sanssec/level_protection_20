@@ -16,10 +16,10 @@
     ],
     "pluginsConfig": {
         "github": {
-            "url": "https://sanssec.github.io/protection_level_20/"
+            "url": "https://github.com/level_protection_20/"
         },
         "editlink": {
-            "base": "https://github.com/sanssec/protection_level_20/blob/master/",
+            "base": "https://github.com/sanssec/level_protection_20/blob/master/",
             "label": "编辑本页"
         },
         "tbfed-pagefooter": {
